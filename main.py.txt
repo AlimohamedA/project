@@ -1,3 +1,4 @@
-print (1)
-print (omar)
-print (ali)
+print(1)
+print(omar)
+print(ali)
+print(shaf3ey)
