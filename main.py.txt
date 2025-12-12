@@ -2,6 +2,6 @@ print(1)
 print(omar)
 print(ali)
 print(shaf3ey)
-<<<<<<< HEAD
 hhhhhhh
 aaalllaaa
+kkkkkk
